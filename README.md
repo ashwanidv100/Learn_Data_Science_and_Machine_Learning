@@ -1,4 +1,4 @@
-# Learn_Data_Science_&_Machine_Learning
+# Learn_Data_Science_and_Machine_Learning
 
 # By Online Videos <br>
 # Month 1 <br>
