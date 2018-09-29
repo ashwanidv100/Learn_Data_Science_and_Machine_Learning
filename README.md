@@ -41,7 +41,7 @@ Deep Learning by Fast.AI<br> http://course.fast.ai/
 Week 3-4<br>
 Re-implement DL projects from my github <br>https://github.com/llSourcell?tab=repositories
 
-# OR
+# OR By
 <br>
  A bunch of other online courses <br>https://github.com/josephmisiti/awesome-machine-learning/blob/master/courses.md <br>
  A bunch of public dataset<br> https://github.com/awesomedata/awesome-public-datasets/blob/master/README.rst
